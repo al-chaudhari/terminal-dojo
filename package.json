@@ -1,7 +1,7 @@
 {
   "name": "terminal-dojo",
   "version": "1.0.0",
-  "description": "A Easy to Use Terminal Framework For NodeJS",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
